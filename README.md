@@ -20,7 +20,8 @@ Model information: https://www.intel.com/content/www/us/en/products/sku/147970/i
 
 
 
-Tools
+
+Tools:
 
 
 Installing system:
